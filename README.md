@@ -5,3 +5,6 @@ Demo Link: https://tanmoy-barua.github.io/landingPage1/
 
 - Day 01 (Fri, March 29 2024)
 > I complete Header part. Header part divided into Two sections they are Navbar or Menubar and Banner part or header main context part.
+
+- Day 02 (Mon, April 01 2024)
+> I complete Service Section part. 
