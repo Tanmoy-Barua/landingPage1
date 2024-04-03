@@ -67,3 +67,11 @@ header{
 }
 
 /* Header part ends */
+
+/* Pricing Section */
+.pricing-section{
+    background-image: url("../images/Rectangle.png");
+    background-position: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
